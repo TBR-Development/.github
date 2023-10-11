@@ -16,7 +16,7 @@ A full list of public repositories maintained by TBR Development members.
 
 
 [Kustom_Imports]: https:\\tbr-development.github.io\Kustom-Imports
-[Nexus_Mods]: https:\\tbr-development.github.io\Nexus-Mids
+[Nexus_Mods]: https:\\tbr-development.github.io\Nexus-Mods
 [Windows_Deskthemepacks]: https;\\tbr-development.github.io\Windows-Deskthemepacks
 
 [PhantomNimbi]: https:\\github.com\PhantomNimbi
