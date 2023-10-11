@@ -10,6 +10,13 @@ A full list of public repositories maintained by TBR Development members.
 
 | Name | Description | Author |
 | --- | --- | --- |
-| [Kustom Imports](https:\\tbr-development.github.io\kustom-imports) | Spice up your Android device with our collection of Kustom imports | [PhantomNimbi](https://github.com/PhantomNimbi) |
-| [Nexus Mods](https:\\tbr-development.github.io\nexus-mods) | A collection of extensions and mods for Vortex Mod Manager | [PhantomNimbi](https://github.com/PhantomNimbi) |
-| [Windows Deskthemepacks](https:\\tbr-development.github.io\Windows-Deskthemepacks) | A collection of themes for Windows 8, 8.1, 10, and 11 | [PhantomNimbi](https://github.com/PhantomNimbi) |
+| [Kustom Imports]}Kustom_Imports] | Spice up your Android device with our collection of Kustom imports | [PhantomNimbi][PhantomNimbi] |
+| [Nexus Mods][Nexus_Mods] | A collection of extensions and mods for Vortex Mod Manager | [PhantomNimbi][PhantomNimbi] |
+| [Windows Deskthemepacks][Windows Deskthemepacks] | A collection of themes for Windows 8, 8.1, 10, and 11 | [PhantomNimbi][PhantomNimbi] |
+
+
+[Kustom_Imports]: https:\\tbr-development.github.io\Kustom-Imports
+[Nexus_Mods]: https:\\tbr-development.github.io\Nexus-Mids
+[Windows_Deskthemepacks]: https;\\tbr-development.github.io\Windows-Deskthemepacks
+
+[PhantomNimbi]: https:\\github.com\PhantomNimbi
