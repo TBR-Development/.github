@@ -15,8 +15,8 @@ A full list of public repositories maintained by TBR Development members.
 | [Windows Deskthemepacks][Windows_Deskthemepacks] | A collection of themes for Windows 8, 8.1, 10, and 11 | [PhantomNimbi][PhantomNimbi] |
 
 
-[Kustom_Imports]: https:\\tbr-development.github.io\Kustom-Imports
-[Nexus_Mods]: https:\\tbr-development.github.io\Nexus-Mods
-[Windows_Deskthemepacks]: https;\\tbr-development.github.io\Windows-Deskthemepacks
+[Kustom_Imports]: https://tbr-development.github.io/Kustom-Imports
+[Nexus_Mods]: https://tbr-development.github.io/Nexus-Mods
+[Windows_Deskthemepacks]: https://tbr-development.github.io/Windows-Deskthemepacks/
 
-[PhantomNimbi]: https:\\github.com\PhantomNimbi
+[PhantomNimbi]: https://github.com/PhantomNimbi
