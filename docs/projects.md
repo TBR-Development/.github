@@ -13,10 +13,11 @@ A full list of public repositories maintained by TBR Development members.
 | [Kustom Imports][Kustom_Imports] | Spice up your Android device with our collection of Kustom imports | [PhantomNimbi][PhantomNimbi] |
 | [Nexus Mods][Nexus_Mods] | A collection of extensions and mods for Vortex Mod Manager | [PhantomNimbi][PhantomNimbi] |
 | [Windows Deskthemepacks][Windows_Deskthemepacks] | A collection of themes for Windows 8, 8.1, 10, and 11 | [PhantomNimbi][PhantomNimbi] |
-
+| [RamMap Task Scheduler][RamMap] | Windows bat script to automate creating RamMap tasks | [PhantomNimbi][PhantomNimbi] |
 
 [Kustom_Imports]: https://tbr-development.github.io/Kustom-Imports
 [Nexus_Mods]: https://tbr-development.github.io/Nexus-Mods
 [Windows_Deskthemepacks]: https://tbr-development.github.io/Windows-Deskthemepacks/
+[RamMap]: https://tbr-development.github.io/RAMMap-Task-Scheduler/
 
 [PhantomNimbi]: https://github.com/PhantomNimbi
