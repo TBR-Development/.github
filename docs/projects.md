@@ -6,7 +6,7 @@ nav_order: 2
 ---
 
 ## Projects
-A full list of public repositories maintained by TBR Development members.
+A full list of public projects maintained by TBR Development members.
 
 | Name | Description | Author |
 | --- | --- | --- |
