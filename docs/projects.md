@@ -6,7 +6,7 @@ nav_order: 2
 ---
 
 ## Projects
-A full list of public projects maintained by TBR Development members.
+A short list of public projects maintained by TBR Development members.
 
 | Name | Description |
 | --- | --- |
@@ -17,6 +17,8 @@ A full list of public projects maintained by TBR Development members.
 | [Virtual Customs Mobile App][VCMobile] | Unofficial mobile app for VirtualCustoms.net |
 | [Median Mobile App][Median] | Unofficial mobile app for Median.co |
 
+To see all of our projects head over to our github at: [github.com/tbr-development][github]
+
 [Kustom_Imports]: https://tbr-development.github.io/Kustom-Imports
 [Nexus_Mods]: https://tbr-development.github.io/Nexus-Mods
 [Windows_Deskthemepacks]: https://tbr-development.github.io/Windows-Deskthemepacks/
@@ -24,3 +26,4 @@ A full list of public projects maintained by TBR Development members.
 [VCMobile]: https://median.co/share/wkolay
 [Median]: https://median.co/share/ejpbbn
 [PhantomNimbi]: https://github.com/PhantomNimbi
+[github]: https://github.com/tbr-development
