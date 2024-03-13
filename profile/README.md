@@ -1,8 +1,9 @@
-![20230917_162500_0000][link]
+![][link]
 
 ---
 
 Open-Source Development and Customization
 
 
-[link]: https://github.com/TBR-Development/.github/assets/17615050/3394908e-4c09-4eeb-80f4-bebe0e724bf2
+[link]: https://github.com/ShitShowDevelopment/.github/assets/17615050/02d12b34-9e62-4c9b-b79e-b3a11955c00f
+
